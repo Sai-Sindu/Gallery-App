@@ -1,0 +1,25 @@
+/* Write your code here. */
+.bg-container {
+  height: 100vh;
+  padding: 50px;
+  font-family: 'Roboto';
+}
+.display-image {
+  height: 600px;
+  width: 100%;
+  background-size: cover;
+  border-radius: 10px;
+}
+.title {
+  color: #1e293b;
+  font-size: 20px;
+}
+.description {
+  color: #64748b;
+  font-size: 15px;
+}
+.thumbnail-items-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}

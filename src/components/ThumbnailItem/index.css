@@ -1,0 +1,16 @@
+/* Write your code here. */
+.thumbnail-img {
+  height: 60px;
+  width: 60px;
+  margin-right: 10px;
+}
+.opacity-img {
+  opacity: 0.5;
+  height: 60px;
+  width: 60px;
+}
+.button {
+  border-width: 0;
+  margin-right: 10px;
+  background-color: #ffffff;
+}
